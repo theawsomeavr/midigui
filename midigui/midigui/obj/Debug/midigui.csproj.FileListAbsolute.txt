@@ -1,0 +1,8 @@
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\obj\Debug\WindowsFormsApplication1.midigui.resources
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\obj\Debug\midigui.Properties.Resources.resources
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\obj\Debug\midigui.csproj.GenerateResource.Cache
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\bin\Debug\midigui.exe
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\bin\Debug\midigui.pdb
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\obj\Debug\midigui.exe
+C:\Users\DavidDario\Documents\Visual Studio 2008\Projects\midigui\midigui\obj\Debug\midigui.pdb
