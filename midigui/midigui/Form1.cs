@@ -35,7 +35,7 @@ namespace WindowsFormsApplication1
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
+        {  
             string c;
             string arg=" ";
         if (t3 == true) arg = "-t3 " ;
@@ -47,7 +47,7 @@ namespace WindowsFormsApplication1
         else c = "-pi ";
                ProcessStartInfo startInfo = new ProcessStartInfo();
                startInfo.FileName = "miditones.exe";
-               startInfo.Arguments = c+arg+result;
+               startInfo.Arguments = c + arg + '\u0022' + result + '\u0022';
                Process.Start(startInfo);
         }
 
